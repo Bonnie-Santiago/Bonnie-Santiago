@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Bonnie-Santiago
-- 👀 I’m interested in CODE;
-- 🌱 I’m currently learning PYTON, HTML, JAVA SCRYPT;
-- 💞️ I’m looking to collaborate on PROJECT
-- 📫 How to reach me...
+
+-👋 Olá, sou @Bonnie-Santiago
+-👀 Estou interessada em tecnologia, programação, desenvolvimento web e mobile, inteligência artificial e machine learning.
+-🌱 Atualmente estou aprendendo mais sobre React, Node.js, e Python.
+-💞️ Estou procurando colaborar em projetos relacionados a desenvolvimento web e mobile, soluções inovadoras e tecnologias emergentes.
+-📫 Você pode entrar em contato comigo pelo meu e-mail:...
 
 <!---
 Bonnie-Santiago/Bonnie-Santiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
